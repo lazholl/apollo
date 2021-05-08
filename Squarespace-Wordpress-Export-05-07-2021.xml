@@ -1,0 +1,1304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <channel>
+    <title>APOLLO</title>
+    <link>https://sunflower-ferret-8dxg.squarespace.com</link>
+    <pubDate>Thu, 06 May 2021 19:01:09 +0000</pubDate>
+    <description />
+    <language>en-US</language>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:author>
+      <wp:author_id>581373937</wp:author_id>
+      <wp:author_login>pugpugpugs@protonmail.com</wp:author_login>
+      <wp:author_email>pugpugpugs@protonmail.com</wp:author_email>
+      <wp:author_display_name><![CDATA[Jam Man]]></wp:author_display_name>
+      <wp:author_first_name><![CDATA[Jam]]></wp:author_first_name>
+      <wp:author_last_name><![CDATA[Man]]></wp:author_last_name>
+    </wp:author>
+    <wp:category>
+      <wp:cat_name><![CDATA[null - null]]></wp:cat_name>
+      <wp:category_nicename>null-null</wp:category_nicename>
+      <wp:category_parent />
+    </wp:category>
+    <item>
+      <link>/apollo-token</link>
+      <title>Apollo Token</title>
+      <pubDate>Fri, 07 May 2021 23:30:21 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" data-page-sections="60943d31280a2d296085ee12" id="sections">
+  
+    <section
+  data-test="page-section"
+  
+  data-section-theme=""
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--small
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+     has-background
+    
+    '
+  
+  data-section-id="60944b889c7d040715bd5f57"
+  
+  data-controller="SectionWrapperController, MagicPaddingController"
+  data-current-styles="{
+  &quot;backgroundImage&quot;: {
+    &quot;id&quot;: &quot;6095a06715dbc1129312fdbf&quot;,
+    &quot;recordType&quot;: 2,
+    &quot;addedOn&quot;: 1620418663164,
+    &quot;updatedOn&quot;: 1620418685469,
+    &quot;workflowState&quot;: 1,
+    &quot;publishOn&quot;: 1620418663164,
+    &quot;authorId&quot;: &quot;60943c3d8cb69162a3d0aa1c&quot;,
+    &quot;systemDataId&quot;: &quot;1620418668424-QNSNR9FD9SLDNNS71K17&quot;,
+    &quot;systemDataVariants&quot;: &quot;1920x1004,100w,300w,500w,750w,1000w,1500w&quot;,
+    &quot;systemDataSourceType&quot;: &quot;PNG&quot;,
+    &quot;filename&quot;: &quot;back.png&quot;,
+    &quot;mediaFocalPoint&quot;: {
+      &quot;x&quot;: 0.5,
+      &quot;y&quot;: 0.5,
+      &quot;source&quot;: 3
+    },
+    &quot;colorData&quot;: {
+      &quot;topLeftAverage&quot;: &quot;010105&quot;,
+      &quot;topRightAverage&quot;: &quot;000000&quot;,
+      &quot;bottomLeftAverage&quot;: &quot;020103&quot;,
+      &quot;bottomRightAverage&quot;: &quot;0e0d03&quot;,
+      &quot;centerAverage&quot;: &quot;b09478&quot;,
+      &quot;suggestedBgColor&quot;: &quot;010104&quot;
+    },
+    &quot;urlId&quot;: &quot;fshukjh03an3bla4zjg6nkdwu350ho&quot;,
+    &quot;title&quot;: &quot;&quot;,
+    &quot;body&quot;: null,
+    &quot;likeCount&quot;: 0,
+    &quot;commentCount&quot;: 0,
+    &quot;publicCommentCount&quot;: 0,
+    &quot;commentState&quot;: 2,
+    &quot;unsaved&quot;: false,
+    &quot;author&quot;: {
+      &quot;id&quot;: &quot;60943c3d8cb69162a3d0aa1c&quot;,
+      &quot;displayName&quot;: &quot;Jam Man&quot;,
+      &quot;firstName&quot;: &quot;Jam&quot;,
+      &quot;lastName&quot;: &quot;Man&quot;,
+      &quot;bio&quot;: &quot;&quot;
+    },
+    &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/60943cf54c6ea96c3fee0622/1620418668424-QNSNR9FD9SLDNNS71K17/ke17ZwdGBToddI8pDm48kDw-wvOPBYe2q0R7Y22ngfB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UR61tt_tV43nD9Ghy9gr-U8GjEfPsHI845-DtGX4aRcoP7cJNZlDXbgJNE9ef52e8w/back.png&quot;,
+    &quot;contentType&quot;: &quot;image/png&quot;,
+    &quot;items&quot;: [ ],
+    &quot;pushedServices&quot;: { },
+    &quot;pendingPushedServices&quot;: { },
+    &quot;recordTypeLabel&quot;: &quot;image&quot;,
+    &quot;originalSize&quot;: &quot;1920x1004&quot;
+  },
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+  &quot;customSectionHeight&quot;: 10,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;,
+  &quot;imageEffect&quot;: &quot;film-grain&quot;
+}"
+  data-animation="none"
+   
+  
+    
+  
+>
+  <div class="section-background">
+  
+    
+      
+      
+        
+            
+
+
+  
+<script>
+  "use strict";
+
+  var positionImage = function positionImage(imageEl) {
+    var imageDimensions = imageEl.dataset.imageDimensions.split('x');
+    var originalWidth = imageDimensions[0];
+    var originalHeight = imageDimensions[1];
+    var focalPoint = imageEl.dataset.imageFocalPoint.split(',');
+    var focalPointX = focalPoint[0];
+    var focalPointY = focalPoint[1];
+    var parentNode = imageEl.parentNode;
+
+    var scale = function () {
+      var imageRatio = originalWidth / originalHeight;
+      var parentClientSize = {
+        height: parentNode.clientHeight,
+        width: parentNode.clientWidth
+      };
+      var parentRatio = parentClientSize.width / parentClientSize.height;
+
+      if (imageRatio > parentRatio) {
+        return parentClientSize.height / originalHeight;
+      }
+
+      return parentClientSize.width / originalWidth;
+    }();
+
+    var getRelativeOffset = function getRelativeOffset() {
+      var targetWidth = Math.ceil(originalWidth * scale);
+      var targetHeight = Math.ceil(originalHeight * scale);
+      var parentDimensionWidth = parentNode.offsetWidth;
+      var parentDimensionHeight = parentNode.offsetHeight;
+      var overflowWidth = targetWidth - parentDimensionWidth;
+      var overflowHeight = targetHeight - parentDimensionHeight;
+      var valueX;
+
+      if (overflowWidth === 0) {
+        valueX = focalPointX;
+      } else {
+        valueX = Math.max(Math.min(targetWidth * focalPointX - parentDimensionWidth * 0.5, overflowWidth), 0) / overflowWidth;
+      }
+
+      var valueY;
+
+      if (overflowHeight === 0) {
+        valueY = focalPointY;
+      } else {
+        valueY = Math.max(Math.min(targetHeight * focalPointY - parentDimensionHeight * 0.5, overflowHeight), 0) / overflowHeight;
+      }
+
+      return {
+        valueX: valueX,
+        valueY: valueY
+      };
+    };
+
+    var relativeOffset = getRelativeOffset();
+    var valueX = relativeOffset.valueX;
+    var valueY = relativeOffset.valueY;
+    imageEl.style.objectPosition = "".concat(valueX * 100, "% ").concat(valueY * 100, "%");
+  };
+</script>
+
+
+
+  
+    
+
+
+  <div
+  class="section-background-content"
+  data-controller="BackgroundImageFXStatic"
+  >
+  <img class="background-image-fx" crossOrigin alt="" src="https://images.squarespace-cdn.com/content/v1/60943cf54c6ea96c3fee0622/1620418668424-QNSNR9FD9SLDNNS71K17/ke17ZwdGBToddI8pDm48kDw-wvOPBYe2q0R7Y22ngfB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UR61tt_tV43nD9Ghy9gr-U8GjEfPsHI845-DtGX4aRcoP7cJNZlDXbgJNE9ef52e8w/back.png" data-image="https://images.squarespace-cdn.com/content/v1/60943cf54c6ea96c3fee0622/1620418668424-QNSNR9FD9SLDNNS71K17/ke17ZwdGBToddI8pDm48kDw-wvOPBYe2q0R7Y22ngfB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UR61tt_tV43nD9Ghy9gr-U8GjEfPsHI845-DtGX4aRcoP7cJNZlDXbgJNE9ef52e8w/back.png" data-image-dimensions="1920x1004" data-image-focal-point="0.5,0.5" alt="back.png"  data-load="false"
+  
+     srcset="https://images.squarespace-cdn.com/content/v1/60943cf54c6ea96c3fee0622/1620418668424-QNSNR9FD9SLDNNS71K17/ke17ZwdGBToddI8pDm48kDw-wvOPBYe2q0R7Y22ngfB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UR61tt_tV43nD9Ghy9gr-U8GjEfPsHI845-DtGX4aRcoP7cJNZlDXbgJNE9ef52e8w/back.png?format=100w 100w,https://images.squarespace-cdn.com/content/v1/60943cf54c6ea96c3fee0622/1620418668424-QNSNR9FD9SLDNNS71K17/ke17ZwdGBToddI8pDm48kDw-wvOPBYe2q0R7Y22ngfB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UR61tt_tV43nD9Ghy9gr-U8GjEfPsHI845-DtGX4aRcoP7cJNZlDXbgJNE9ef52e8w/back.png?format=300w 300w,https://images.squarespace-cdn.com/content/v1/60943cf54c6ea96c3fee0622/1620418668424-QNSNR9FD9SLDNNS71K17/ke17ZwdGBToddI8pDm48kDw-wvOPBYe2q0R7Y22ngfB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UR61tt_tV43nD9Ghy9gr-U8GjEfPsHI845-DtGX4aRcoP7cJNZlDXbgJNE9ef52e8w/back.png?format=500w 500w,https://images.squarespace-cdn.com/content/v1/60943cf54c6ea96c3fee0622/1620418668424-QNSNR9FD9SLDNNS71K17/ke17ZwdGBToddI8pDm48kDw-wvOPBYe2q0R7Y22ngfB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UR61tt_tV43nD9Ghy9gr-U8GjEfPsHI845-DtGX4aRcoP7cJNZlDXbgJNE9ef52e8w/back.png?format=750w 750w,https://images.squarespace-cdn.com/content/v1/60943cf54c6ea96c3fee0622/1620418668424-QNSNR9FD9SLDNNS71K17/ke17ZwdGBToddI8pDm48kDw-wvOPBYe2q0R7Y22ngfB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UR61tt_tV43nD9Ghy9gr-U8GjEfPsHI845-DtGX4aRcoP7cJNZlDXbgJNE9ef52e8w/back.png?format=1000w 1000w,https://images.squarespace-cdn.com/content/v1/60943cf54c6ea96c3fee0622/1620418668424-QNSNR9FD9SLDNNS71K17/ke17ZwdGBToddI8pDm48kDw-wvOPBYe2q0R7Y22ngfB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UR61tt_tV43nD9Ghy9gr-U8GjEfPsHI845-DtGX4aRcoP7cJNZlDXbgJNE9ef52e8w/back.png?format=1500w 1500w,https://images.squarespace-cdn.com/content/v1/60943cf54c6ea96c3fee0622/1620418668424-QNSNR9FD9SLDNNS71K17/ke17ZwdGBToddI8pDm48kDw-wvOPBYe2q0R7Y22ngfB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UR61tt_tV43nD9Ghy9gr-U8GjEfPsHI845-DtGX4aRcoP7cJNZlDXbgJNE9ef52e8w/back.png?format=original"
+      
+      sizes="100vw"
+      onLoad="positionImage(this); this.classList.add('loaded');"
+  
+/>
+
+  <div class="section-background-canvas background-fx-canvas"></div>
+</div>
+
+  
+
+          
+      
+      <div data-controller="SectionBackgroundOverlayController" data-image-overlay-opacity="0.15" class="section-background-overlay"></div>
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-60944b889c7d040715bd5f57"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1620418695666_9745"><div class="sqs-block-content">&nbsp;</div></div><div class="row sqs-row"><div class="col sqs-col-2 span-2"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1620416314073_13365"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block button-block sqs-block-button" data-block-type="53" id="block-yui_3_17_2_1_1620333782546_6435"><div class="sqs-block-content">
+
+<div class="sqs-block-button-container--center" data-animation-role="button" data-alignment="center" data-button-size="large">
+	<a href="https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x67e6779ab8967806244764cdd4597556244971a4" class="sqs-block-button-element--large sqs-block-button-element" target="_blank">PURCHASE</a>
+</div>
+</div></div><div class="sqs-block button-block sqs-block-button" data-block-type="53" id="block-yui_3_17_2_1_1620416183090_5687"><div class="sqs-block-content">
+
+<div class="sqs-block-button-container--center" data-animation-role="button" data-alignment="center" data-button-size="medium">
+	<a href="" class="sqs-block-button-element--medium sqs-block-button-element" >CHART</a>
+</div>
+</div></div><div class="sqs-block button-block sqs-block-button" data-block-type="53" id="block-yui_3_17_2_1_1620332791058_10472"><div class="sqs-block-content">
+
+<div class="sqs-block-button-container--center" data-animation-role="button" data-alignment="center" data-button-size="large">
+	<a href="/token" class="sqs-block-button-element--large sqs-block-button-element" >TOKENOMICS</a>
+</div>
+</div></div></div><div class="col sqs-col-2 span-2"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1620416741233_11570"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block button-block sqs-block-button" data-block-type="53" id="block-yui_3_17_2_1_1620416314073_10082"><div class="sqs-block-content">
+
+<div class="sqs-block-button-container--center" data-animation-role="button" data-alignment="center" data-button-size="medium">
+	<a href="" class="sqs-block-button-element--medium sqs-block-button-element" >ROADMAP</a>
+</div>
+</div></div><div class="sqs-block button-block sqs-block-button" data-block-type="53" id="block-yui_3_17_2_1_1620333782546_7291"><div class="sqs-block-content">
+
+<div class="sqs-block-button-container--center" data-animation-role="button" data-alignment="center" data-button-size="large">
+	<a href="/faq" class="sqs-block-button-element--large sqs-block-button-element" >F.A.Q.</a>
+</div>
+</div></div><div class="sqs-block button-block sqs-block-button" data-block-type="53" id="block-yui_3_17_2_1_1620332791058_11366"><div class="sqs-block-content">
+
+<div class="sqs-block-button-container--center" data-animation-role="button" data-alignment="center" data-button-size="large">
+	<a href="/s/Apollo_Whitepaper_V21.pdf" class="sqs-block-button-element--large sqs-block-button-element" >WHITEPAPER</a>
+</div>
+</div></div></div><div class="col sqs-col-2 span-2"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1620416314073_16504"><div class="sqs-block-content">&nbsp;</div></div></div></div></div></div><div class="row sqs-row"><div class="col sqs-col-6 span-6"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1620379519530_14260"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1620416741233_7587"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1620379519530_13111"><div class="sqs-block-content">&nbsp;</div></div></div></div><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1620418157873_10063"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block spacer-block sqs-block-spacer" data-aspect-ratio="8.166666666666666" data-block-type="21" id="block-yui_3_17_2_1_1620379519530_11361"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1620417970756_8186"><div class="sqs-block-content"><h4 style="text-align:center;white-space:pre-wrap;">A Moon Mission Like Never Before</h4></div></div></div></div></div>
+    </div>
+  </div>
+</section>
+
+  
+    <section
+  data-test="page-section"
+  
+  data-section-theme="white"
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+    
+    white'
+  
+  data-section-id="60959b79eb940b67c668b3ec"
+  
+  data-controller="SectionWrapperController, MagicPaddingController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;customSectionHeight&quot;: 10,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;white&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;video&quot;
+}"
+  data-animation="none"
+   
+  
+    
+  
+>
+  <div class="section-background">
+  
+    
+      <div data-controller="VideoBackground">
+        
+<div class="sqs-video-background content-fill" data-config-url="https://youtu.be/5k37EqBtyBk" data-config-playback-speed="0.85" data-config-filter="7" data-config-filter-strength="20">
+  
+
+  <div id="player"></div>
+
+</div>
+
+      </div>
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-60959b79eb940b67c668b3ec"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-60959b79583d4b3f3918e61a"><div class="sqs-block-content"><h2 style="white-space:pre-wrap;">&nbsp;What is $APOLLO?</h2><p class="" style="white-space:pre-wrap;">Launched in May 2021, Apollo is an auto-generating liquidity protocol built on the Binance Smart Chain. There has been an explosion of interest in low market cap cryptocurrencies during the recent market cycle and many of these tokens have no real-world use. $Apollo is an asset with in-built innovative ‘whale proof’ mechanisms, which will rocket you into the stratosphere like Neil Armstrong and Buzz Aldrin! By redistributing 2% of every transaction, $Apollo rewards you for holding long term. To ensure the token’s stability, another 8% is allocated to the liquidity pool permanently.</p><h2 style="white-space:pre-wrap;">Okay, but how do I buy some?</h2></div></div><div class="row sqs-row"><div class="col sqs-col-6 span-6"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1620418760291_26699"><div class="sqs-block-content"><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Go to Metamask.io and download their wallet to your phone or internet browser.</p></li><li><p class="" style="white-space:pre-wrap;">Send BNB to your metamask wallet. </p></li><li><p class="" style="white-space:pre-wrap;">Go to PancakeSwap.Finance, go to the trade screen on the left, then click “Connect” in the top right of the screen. </p></li><li><p class="" style="white-space:pre-wrap;">Click on the select currency screen and enter the $Apollo token contract: 0x67e6779ab8967806244764cdd4597556244971a4 </p></li><li><p class="" style="white-space:pre-wrap;">Click “settings” on the top right and adjust your slippage to 12% </p></li><li><p class="" style="white-space:pre-wrap;">Then swap the amount of BNB that you want into $Apollo!</p></li></ul></div></div></div><div class="col sqs-col-6 span-6"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1620418760291_24260"><div class="sqs-block-content">&nbsp;</div></div></div></div></div></div></div>
+    </div>
+  </div>
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>apollo-token</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>0</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/what-we-do</link>
+      <title>About</title>
+      <pubDate>Thu, 06 May 2021 19:22:46 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" data-page-sections="609442063bab9815ebf4c24e" id="sections">
+  
+    <section
+  data-test="page-section"
+  
+  data-section-theme="dark"
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--medium
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+     has-background
+    
+    dark'
+  
+  data-section-id="609442063bab9815ebf4c251"
+  
+  data-controller="SectionWrapperController, MagicPaddingController"
+  data-current-styles="{
+  &quot;backgroundImage&quot;: {
+    &quot;id&quot;: &quot;609442063bab9815ebf4c24d&quot;,
+    &quot;recordType&quot;: 2,
+    &quot;addedOn&quot;: 1565292180794,
+    &quot;updatedOn&quot;: 1565986431218,
+    &quot;starred&quot;: false,
+    &quot;passthrough&quot;: false,
+    &quot;workflowState&quot;: 1,
+    &quot;publishOn&quot;: 1565292180794,
+    &quot;authorId&quot;: &quot;60943c3d8cb69162a3d0aa1c&quot;,
+    &quot;systemDataId&quot;: &quot;1565292185399-S5IV19IDTFU75O3EE5W2&quot;,
+    &quot;systemDataVariants&quot;: &quot;2500x1667,100w,300w,500w,750w,1000w,1500w,2500w&quot;,
+    &quot;systemDataSourceType&quot;: &quot;JPG&quot;,
+    &quot;filename&quot;: &quot;20140302_trade 151_0677.jpg&quot;,
+    &quot;mediaFocalPoint&quot;: {
+      &quot;x&quot;: 0.47342623197115385,
+      &quot;y&quot;: 0.6459392945036915,
+      &quot;source&quot;: 3
+    },
+    &quot;colorData&quot;: {
+      &quot;topLeftAverage&quot;: &quot;202d26&quot;,
+      &quot;topRightAverage&quot;: &quot;516050&quot;,
+      &quot;bottomLeftAverage&quot;: &quot;8f8e6e&quot;,
+      &quot;bottomRightAverage&quot;: &quot;c4c0a7&quot;,
+      &quot;centerAverage&quot;: &quot;4d6c48&quot;,
+      &quot;suggestedBgColor&quot;: &quot;2e3b34&quot;
+    },
+    &quot;urlId&quot;: &quot;fmxahtsi4meppavcsc16q0nu5rvg5m-49zc5&quot;,
+    &quot;title&quot;: &quot;&quot;,
+    &quot;body&quot;: null,
+    &quot;likeCount&quot;: 0,
+    &quot;commentCount&quot;: 0,
+    &quot;publicCommentCount&quot;: 0,
+    &quot;commentState&quot;: 2,
+    &quot;unsaved&quot;: false,
+    &quot;author&quot;: {
+      &quot;id&quot;: &quot;60943c3d8cb69162a3d0aa1c&quot;,
+      &quot;displayName&quot;: &quot;Jam Man&quot;,
+      &quot;firstName&quot;: &quot;Jam&quot;,
+      &quot;lastName&quot;: &quot;Man&quot;,
+      &quot;bio&quot;: &quot;&quot;
+    },
+    &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/5d3b3ed8084b6f00015405ba/1565292185399-S5IV19IDTFU75O3EE5W2/ke17ZwdGBToddI8pDm48kLkXF2pIyv_F2eUT9F60jBl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iyqMbMesKd95J-X4EagrgU9L3Sa3U8cogeb0tjXbfawd0urKshkc5MgdBeJmALQKw/20140302_trade+151_0677.jpg&quot;,
+    &quot;contentType&quot;: &quot;image/jpeg&quot;,
+    &quot;items&quot;: [ ],
+    &quot;pushedServices&quot;: { },
+    &quot;pendingPushedServices&quot;: { },
+    &quot;recordTypeLabel&quot;: &quot;image&quot;,
+    &quot;originalSize&quot;: &quot;2500x1667&quot;
+  },
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;customSectionHeight&quot;: 50,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--medium&quot;,
+  &quot;sectionTheme&quot;: &quot;dark&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-animation="none"
+   
+  
+    
+  
+>
+  <div class="section-background">
+  
+    
+      
+      
+        
+            
+
+
+  
+<script>
+  "use strict";
+
+  var positionImage = function positionImage(imageEl) {
+    var imageDimensions = imageEl.dataset.imageDimensions.split('x');
+    var originalWidth = imageDimensions[0];
+    var originalHeight = imageDimensions[1];
+    var focalPoint = imageEl.dataset.imageFocalPoint.split(',');
+    var focalPointX = focalPoint[0];
+    var focalPointY = focalPoint[1];
+    var parentNode = imageEl.parentNode;
+
+    var scale = function () {
+      var imageRatio = originalWidth / originalHeight;
+      var parentClientSize = {
+        height: parentNode.clientHeight,
+        width: parentNode.clientWidth
+      };
+      var parentRatio = parentClientSize.width / parentClientSize.height;
+
+      if (imageRatio > parentRatio) {
+        return parentClientSize.height / originalHeight;
+      }
+
+      return parentClientSize.width / originalWidth;
+    }();
+
+    var getRelativeOffset = function getRelativeOffset() {
+      var targetWidth = Math.ceil(originalWidth * scale);
+      var targetHeight = Math.ceil(originalHeight * scale);
+      var parentDimensionWidth = parentNode.offsetWidth;
+      var parentDimensionHeight = parentNode.offsetHeight;
+      var overflowWidth = targetWidth - parentDimensionWidth;
+      var overflowHeight = targetHeight - parentDimensionHeight;
+      var valueX;
+
+      if (overflowWidth === 0) {
+        valueX = focalPointX;
+      } else {
+        valueX = Math.max(Math.min(targetWidth * focalPointX - parentDimensionWidth * 0.5, overflowWidth), 0) / overflowWidth;
+      }
+
+      var valueY;
+
+      if (overflowHeight === 0) {
+        valueY = focalPointY;
+      } else {
+        valueY = Math.max(Math.min(targetHeight * focalPointY - parentDimensionHeight * 0.5, overflowHeight), 0) / overflowHeight;
+      }
+
+      return {
+        valueX: valueX,
+        valueY: valueY
+      };
+    };
+
+    var relativeOffset = getRelativeOffset();
+    var valueX = relativeOffset.valueX;
+    var valueY = relativeOffset.valueY;
+    imageEl.style.objectPosition = "".concat(valueX * 100, "% ").concat(valueY * 100, "%");
+  };
+</script>
+
+
+
+  
+  <img alt="" src="https://images.squarespace-cdn.com/content/v1/5d3b3ed8084b6f00015405ba/1565292185399-S5IV19IDTFU75O3EE5W2/ke17ZwdGBToddI8pDm48kLkXF2pIyv_F2eUT9F60jBl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iyqMbMesKd95J-X4EagrgU9L3Sa3U8cogeb0tjXbfawd0urKshkc5MgdBeJmALQKw/20140302_trade+151_0677.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5d3b3ed8084b6f00015405ba/1565292185399-S5IV19IDTFU75O3EE5W2/ke17ZwdGBToddI8pDm48kLkXF2pIyv_F2eUT9F60jBl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iyqMbMesKd95J-X4EagrgU9L3Sa3U8cogeb0tjXbfawd0urKshkc5MgdBeJmALQKw/20140302_trade+151_0677.jpg" data-image-dimensions="2500x1667" data-image-focal-point="0.47342623197115385,0.6459392945036915" alt="20140302_trade 151_0677.jpg"  data-load="false"
+    
+       srcset="https://images.squarespace-cdn.com/content/v1/5d3b3ed8084b6f00015405ba/1565292185399-S5IV19IDTFU75O3EE5W2/ke17ZwdGBToddI8pDm48kLkXF2pIyv_F2eUT9F60jBl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iyqMbMesKd95J-X4EagrgU9L3Sa3U8cogeb0tjXbfawd0urKshkc5MgdBeJmALQKw/20140302_trade+151_0677.jpg?format=100w 100w,https://images.squarespace-cdn.com/content/v1/5d3b3ed8084b6f00015405ba/1565292185399-S5IV19IDTFU75O3EE5W2/ke17ZwdGBToddI8pDm48kLkXF2pIyv_F2eUT9F60jBl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iyqMbMesKd95J-X4EagrgU9L3Sa3U8cogeb0tjXbfawd0urKshkc5MgdBeJmALQKw/20140302_trade+151_0677.jpg?format=300w 300w,https://images.squarespace-cdn.com/content/v1/5d3b3ed8084b6f00015405ba/1565292185399-S5IV19IDTFU75O3EE5W2/ke17ZwdGBToddI8pDm48kLkXF2pIyv_F2eUT9F60jBl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iyqMbMesKd95J-X4EagrgU9L3Sa3U8cogeb0tjXbfawd0urKshkc5MgdBeJmALQKw/20140302_trade+151_0677.jpg?format=500w 500w,https://images.squarespace-cdn.com/content/v1/5d3b3ed8084b6f00015405ba/1565292185399-S5IV19IDTFU75O3EE5W2/ke17ZwdGBToddI8pDm48kLkXF2pIyv_F2eUT9F60jBl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iyqMbMesKd95J-X4EagrgU9L3Sa3U8cogeb0tjXbfawd0urKshkc5MgdBeJmALQKw/20140302_trade+151_0677.jpg?format=750w 750w,https://images.squarespace-cdn.com/content/v1/5d3b3ed8084b6f00015405ba/1565292185399-S5IV19IDTFU75O3EE5W2/ke17ZwdGBToddI8pDm48kLkXF2pIyv_F2eUT9F60jBl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iyqMbMesKd95J-X4EagrgU9L3Sa3U8cogeb0tjXbfawd0urKshkc5MgdBeJmALQKw/20140302_trade+151_0677.jpg?format=1000w 1000w,https://images.squarespace-cdn.com/content/v1/5d3b3ed8084b6f00015405ba/1565292185399-S5IV19IDTFU75O3EE5W2/ke17ZwdGBToddI8pDm48kLkXF2pIyv_F2eUT9F60jBl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iyqMbMesKd95J-X4EagrgU9L3Sa3U8cogeb0tjXbfawd0urKshkc5MgdBeJmALQKw/20140302_trade+151_0677.jpg?format=1500w 1500w,https://images.squarespace-cdn.com/content/v1/5d3b3ed8084b6f00015405ba/1565292185399-S5IV19IDTFU75O3EE5W2/ke17ZwdGBToddI8pDm48kLkXF2pIyv_F2eUT9F60jBl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iyqMbMesKd95J-X4EagrgU9L3Sa3U8cogeb0tjXbfawd0urKshkc5MgdBeJmALQKw/20140302_trade+151_0677.jpg?format=2500w 2500w,https://images.squarespace-cdn.com/content/v1/5d3b3ed8084b6f00015405ba/1565292185399-S5IV19IDTFU75O3EE5W2/ke17ZwdGBToddI8pDm48kLkXF2pIyv_F2eUT9F60jBl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iyqMbMesKd95J-X4EagrgU9L3Sa3U8cogeb0tjXbfawd0urKshkc5MgdBeJmALQKw/20140302_trade+151_0677.jpg?format=original"
+      
+      sizes="100vw"
+      onLoad="positionImage(this); this.classList.add('loaded');"
+    
+  />
+
+          
+      
+      <div data-controller="SectionBackgroundOverlayController" data-image-overlay-opacity="0.15" class="section-background-overlay"></div>
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-609442063bab9815ebf4c251"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-81af2fc9be8e6498cd6e"><div class="sqs-block-content"><h1 style="text-align:center;white-space:pre-wrap;">What We Do</h1></div></div></div></div></div>
+    </div>
+  </div>
+</section>
+
+  
+    <section
+  data-test="page-section"
+  
+  data-section-theme=""
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--medium
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+    
+    '
+  
+  data-section-id="609442063bab9815ebf4c253"
+  
+  data-controller="SectionWrapperController, MagicPaddingController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--medium&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-animation="none"
+   
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-609442063bab9815ebf4c253"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-9b44316828e43a735e8c"><div class="sqs-block-content"><h3 style="white-space:pre-wrap;">Since 1950, we have led the effort to permanently protect nearly 110 million acres of wilderness. We have been at the forefront of nearly every major public lands victory.</h3></div></div><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-e3604a3c49cf37b0e6a1"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-27494247602f1f4fe033"><div class="sqs-block-content"><h4 style="white-space:pre-wrap;">Our Mission</h4><p class="" style="white-space:pre-wrap;">Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum. Maecenas sed diam eget risus varius blandit sit amet non magna. Etiam porta sem malesuada magna mollis euismod. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</p></div></div><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-df3524ad0d9a9828e0ba"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-4b6f281e8be8f7fff1e0"><div class="sqs-block-content"><h3 style="white-space:pre-wrap;">“Redford has helped accomplish over 200 of its partners’ major conservation goals. They inspire everyone to care for the planet.”</h3><p class="" style="white-space:pre-wrap;">— Quote Source</p></div></div><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-5b89cdc5bb538fb1f1cd"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-4fe49e84a24d8377f6dc"><div class="sqs-block-content"><h4 style="white-space:pre-wrap;">What We’ve Achieved</h4></div></div><div class="row sqs-row"><div class="col sqs-col-6 span-6"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-fb2580c07106787310de"><div class="sqs-block-content"><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Donec condimentum enim sit amet felis dignissim laoreet adipiscing dignissim.</p></li><li><p class="" style="white-space:pre-wrap;">Vivamus egestas urna sed lorem sagittis, id lacinia erat porta cras.</p></li><li><p class="" style="white-space:pre-wrap;">Morbi eu elit in justo auctor dignissim. Sed ultrices eget neque tellus.</p></li><li><p class="" style="white-space:pre-wrap;">Sed fermentum eget velit at eleifend. Donec volutpat est a felis pulvinar.</p></li></ul></div></div></div><div class="col sqs-col-6 span-6"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-0dce0f743f51ec72899d"><div class="sqs-block-content"><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Donec condimentum enim sit amet felis dignissim laoreet adipiscing dignissim.</p></li><li><p class="" style="white-space:pre-wrap;">Vivamus egestas urna sed lorem sagittis, id lacinia erat porta cras.</p></li><li><p class="" style="white-space:pre-wrap;">Morbi eu elit in justo auctor dignissim. Sed ultrices eget neque tellus.</p></li><li><p class="" style="white-space:pre-wrap;">Sed fermentum eget velit at eleifend. Donec volutpat est a felis pulvinar.</p></li></ul></div></div></div></div></div></div></div>
+    </div>
+  </div>
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>what-we-do</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>1</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/token</link>
+      <title>Tokenomics</title>
+      <pubDate>Fri, 07 May 2021 21:55:46 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" data-page-sections="6094fa585db18c401090992e" id="sections">
+  
+    <section
+  data-test="page-section"
+  
+  data-section-theme="white"
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--large
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+     has-background
+    
+    white'
+  
+  data-section-id="6094fa585db18c4010909931"
+  
+  data-controller="SectionWrapperController, MagicPaddingController"
+  data-current-styles="{
+  &quot;backgroundImage&quot;: {
+    &quot;id&quot;: &quot;6095913309db8a0a0393bb67&quot;,
+    &quot;recordType&quot;: 2,
+    &quot;addedOn&quot;: 1620414771666,
+    &quot;updatedOn&quot;: 1620414783850,
+    &quot;workflowState&quot;: 1,
+    &quot;publishOn&quot;: 1620414771666,
+    &quot;authorId&quot;: &quot;60943c3d8cb69162a3d0aa1c&quot;,
+    &quot;systemDataId&quot;: &quot;1620414774467-EAD839O2MEWTB0RPSC9H&quot;,
+    &quot;systemDataVariants&quot;: &quot;1920x1004,100w,300w,500w,750w,1000w,1500w&quot;,
+    &quot;systemDataSourceType&quot;: &quot;PNG&quot;,
+    &quot;filename&quot;: &quot;faq_back.png&quot;,
+    &quot;mediaFocalPoint&quot;: {
+      &quot;x&quot;: 0.5,
+      &quot;y&quot;: 0.5,
+      &quot;source&quot;: 3
+    },
+    &quot;colorData&quot;: {
+      &quot;topLeftAverage&quot;: &quot;010105&quot;,
+      &quot;topRightAverage&quot;: &quot;000000&quot;,
+      &quot;bottomLeftAverage&quot;: &quot;020103&quot;,
+      &quot;bottomRightAverage&quot;: &quot;0e0d03&quot;,
+      &quot;centerAverage&quot;: &quot;32183f&quot;,
+      &quot;suggestedBgColor&quot;: &quot;010104&quot;
+    },
+    &quot;urlId&quot;: &quot;4l52jvy3wy9dt6ekbx5o93cwnxnmcu&quot;,
+    &quot;title&quot;: &quot;&quot;,
+    &quot;body&quot;: null,
+    &quot;likeCount&quot;: 0,
+    &quot;commentCount&quot;: 0,
+    &quot;publicCommentCount&quot;: 0,
+    &quot;commentState&quot;: 2,
+    &quot;unsaved&quot;: false,
+    &quot;author&quot;: {
+      &quot;id&quot;: &quot;60943c3d8cb69162a3d0aa1c&quot;,
+      &quot;displayName&quot;: &quot;Jam Man&quot;,
+      &quot;firstName&quot;: &quot;Jam&quot;,
+      &quot;lastName&quot;: &quot;Man&quot;,
+      &quot;bio&quot;: &quot;&quot;
+    },
+    &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/60943cf54c6ea96c3fee0622/1620414774467-EAD839O2MEWTB0RPSC9H/ke17ZwdGBToddI8pDm48kDw-wvOPBYe2q0R7Y22ngfB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UR61tt_tV43nD9Ghy9gr-U8GjEfPsHI845-DtGX4aRcoP7cJNZlDXbgJNE9ef52e8w/faq_back.png&quot;,
+    &quot;contentType&quot;: &quot;image/png&quot;,
+    &quot;items&quot;: [ ],
+    &quot;pushedServices&quot;: { },
+    &quot;pendingPushedServices&quot;: { },
+    &quot;recordTypeLabel&quot;: &quot;image&quot;,
+    &quot;originalSize&quot;: &quot;1920x1004&quot;
+  },
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--large&quot;,
+  &quot;customSectionHeight&quot;: 10,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;white&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-animation="none"
+   
+  
+    
+  
+>
+  <div class="section-background">
+  
+    
+      
+      
+        
+            
+
+
+  
+<script>
+  "use strict";
+
+  var positionImage = function positionImage(imageEl) {
+    var imageDimensions = imageEl.dataset.imageDimensions.split('x');
+    var originalWidth = imageDimensions[0];
+    var originalHeight = imageDimensions[1];
+    var focalPoint = imageEl.dataset.imageFocalPoint.split(',');
+    var focalPointX = focalPoint[0];
+    var focalPointY = focalPoint[1];
+    var parentNode = imageEl.parentNode;
+
+    var scale = function () {
+      var imageRatio = originalWidth / originalHeight;
+      var parentClientSize = {
+        height: parentNode.clientHeight,
+        width: parentNode.clientWidth
+      };
+      var parentRatio = parentClientSize.width / parentClientSize.height;
+
+      if (imageRatio > parentRatio) {
+        return parentClientSize.height / originalHeight;
+      }
+
+      return parentClientSize.width / originalWidth;
+    }();
+
+    var getRelativeOffset = function getRelativeOffset() {
+      var targetWidth = Math.ceil(originalWidth * scale);
+      var targetHeight = Math.ceil(originalHeight * scale);
+      var parentDimensionWidth = parentNode.offsetWidth;
+      var parentDimensionHeight = parentNode.offsetHeight;
+      var overflowWidth = targetWidth - parentDimensionWidth;
+      var overflowHeight = targetHeight - parentDimensionHeight;
+      var valueX;
+
+      if (overflowWidth === 0) {
+        valueX = focalPointX;
+      } else {
+        valueX = Math.max(Math.min(targetWidth * focalPointX - parentDimensionWidth * 0.5, overflowWidth), 0) / overflowWidth;
+      }
+
+      var valueY;
+
+      if (overflowHeight === 0) {
+        valueY = focalPointY;
+      } else {
+        valueY = Math.max(Math.min(targetHeight * focalPointY - parentDimensionHeight * 0.5, overflowHeight), 0) / overflowHeight;
+      }
+
+      return {
+        valueX: valueX,
+        valueY: valueY
+      };
+    };
+
+    var relativeOffset = getRelativeOffset();
+    var valueX = relativeOffset.valueX;
+    var valueY = relativeOffset.valueY;
+    imageEl.style.objectPosition = "".concat(valueX * 100, "% ").concat(valueY * 100, "%");
+  };
+</script>
+
+
+
+  
+  <img alt="" src="https://images.squarespace-cdn.com/content/v1/60943cf54c6ea96c3fee0622/1620414774467-EAD839O2MEWTB0RPSC9H/ke17ZwdGBToddI8pDm48kDw-wvOPBYe2q0R7Y22ngfB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UR61tt_tV43nD9Ghy9gr-U8GjEfPsHI845-DtGX4aRcoP7cJNZlDXbgJNE9ef52e8w/faq_back.png" data-image="https://images.squarespace-cdn.com/content/v1/60943cf54c6ea96c3fee0622/1620414774467-EAD839O2MEWTB0RPSC9H/ke17ZwdGBToddI8pDm48kDw-wvOPBYe2q0R7Y22ngfB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UR61tt_tV43nD9Ghy9gr-U8GjEfPsHI845-DtGX4aRcoP7cJNZlDXbgJNE9ef52e8w/faq_back.png" data-image-dimensions="1920x1004" data-image-focal-point="0.5,0.5" alt="faq_back.png"  data-load="false"
+    
+       srcset="https://images.squarespace-cdn.com/content/v1/60943cf54c6ea96c3fee0622/1620414774467-EAD839O2MEWTB0RPSC9H/ke17ZwdGBToddI8pDm48kDw-wvOPBYe2q0R7Y22ngfB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UR61tt_tV43nD9Ghy9gr-U8GjEfPsHI845-DtGX4aRcoP7cJNZlDXbgJNE9ef52e8w/faq_back.png?format=100w 100w,https://images.squarespace-cdn.com/content/v1/60943cf54c6ea96c3fee0622/1620414774467-EAD839O2MEWTB0RPSC9H/ke17ZwdGBToddI8pDm48kDw-wvOPBYe2q0R7Y22ngfB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UR61tt_tV43nD9Ghy9gr-U8GjEfPsHI845-DtGX4aRcoP7cJNZlDXbgJNE9ef52e8w/faq_back.png?format=300w 300w,https://images.squarespace-cdn.com/content/v1/60943cf54c6ea96c3fee0622/1620414774467-EAD839O2MEWTB0RPSC9H/ke17ZwdGBToddI8pDm48kDw-wvOPBYe2q0R7Y22ngfB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UR61tt_tV43nD9Ghy9gr-U8GjEfPsHI845-DtGX4aRcoP7cJNZlDXbgJNE9ef52e8w/faq_back.png?format=500w 500w,https://images.squarespace-cdn.com/content/v1/60943cf54c6ea96c3fee0622/1620414774467-EAD839O2MEWTB0RPSC9H/ke17ZwdGBToddI8pDm48kDw-wvOPBYe2q0R7Y22ngfB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UR61tt_tV43nD9Ghy9gr-U8GjEfPsHI845-DtGX4aRcoP7cJNZlDXbgJNE9ef52e8w/faq_back.png?format=750w 750w,https://images.squarespace-cdn.com/content/v1/60943cf54c6ea96c3fee0622/1620414774467-EAD839O2MEWTB0RPSC9H/ke17ZwdGBToddI8pDm48kDw-wvOPBYe2q0R7Y22ngfB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UR61tt_tV43nD9Ghy9gr-U8GjEfPsHI845-DtGX4aRcoP7cJNZlDXbgJNE9ef52e8w/faq_back.png?format=1000w 1000w,https://images.squarespace-cdn.com/content/v1/60943cf54c6ea96c3fee0622/1620414774467-EAD839O2MEWTB0RPSC9H/ke17ZwdGBToddI8pDm48kDw-wvOPBYe2q0R7Y22ngfB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UR61tt_tV43nD9Ghy9gr-U8GjEfPsHI845-DtGX4aRcoP7cJNZlDXbgJNE9ef52e8w/faq_back.png?format=1500w 1500w,https://images.squarespace-cdn.com/content/v1/60943cf54c6ea96c3fee0622/1620414774467-EAD839O2MEWTB0RPSC9H/ke17ZwdGBToddI8pDm48kDw-wvOPBYe2q0R7Y22ngfB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UR61tt_tV43nD9Ghy9gr-U8GjEfPsHI845-DtGX4aRcoP7cJNZlDXbgJNE9ef52e8w/faq_back.png?format=original"
+      
+      sizes="100vw"
+      onLoad="positionImage(this); this.classList.add('loaded');"
+    
+  />
+
+          
+      
+      <div data-controller="SectionBackgroundOverlayController" data-image-overlay-opacity="0.15" class="section-background-overlay"></div>
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-6094fa585db18c4010909931"><div class="row sqs-row"><div class="col sqs-col-1 span-1"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1620415055229_26932"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-10 span-10"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1620376199794_11699"><div class="sqs-block-content"><h1 style="text-align:center;white-space:pre-wrap;">The Token</h1></div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-yui_3_17_2_1_1620376467714_3344"><div class="sqs-block-content"><hr /></div></div><div class="row sqs-row"><div class="col sqs-col-5 span-5"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1620377997240_17366"><div class="sqs-block-content"><p style="text-align:center;white-space:pre-wrap;" class="sqsrte-large">1B Supply</p></div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-yui_3_17_2_1_1620415055229_25434"><div class="sqs-block-content"><hr /></div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1620378571033_6298"><div class="sqs-block-content"><p style="text-align:center;white-space:pre-wrap;" class="sqsrte-large">10% Initial Burn</p></div></div><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1620378697838_38390"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-0 span-0"></div><div class="col sqs-col-5 span-5"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1620377997240_18623"><div class="sqs-block-content"><p style="text-align:center;white-space:pre-wrap;" class="sqsrte-large">15M Max Buyable</p></div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-yui_3_17_2_1_1620378571033_6236"><div class="sqs-block-content"><hr /></div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1620415055229_22234"><div class="sqs-block-content"><p style="text-align:center;white-space:pre-wrap;" class="sqsrte-large">10% Transaction Tax</p><p style="text-align:center;white-space:pre-wrap;" class=""><em>8% LP Locked</em></p><p style="text-align:center;white-space:pre-wrap;" class=""><em>2% Redistributed</em></p></div></div></div></div><div class="sqs-block spacer-block sqs-block-spacer" data-aspect-ratio="11.368209255533198" data-block-type="21" id="block-yui_3_17_2_1_1620414756493_58504"><div class="sqs-block-content">&nbsp;</div></div><div class="row sqs-row"><div class="col sqs-col-3 span-3"><div class="row sqs-row"><div class="col sqs-col-2 span-2"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1620378697838_47554"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-1 span-1"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1620378697838_51734"><div class="sqs-block-content">&nbsp;</div></div></div></div></div><div class="col sqs-col-7 span-7"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1620377997240_22166"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1620377997240_26816"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1620377997240_27562"><div class="sqs-block-content">&nbsp;</div></div></div></div></div><div class="col sqs-col-1 span-1"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1620415055229_31280"><div class="sqs-block-content">&nbsp;</div></div></div></div></div>
+    </div>
+  </div>
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>token</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>2</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/faq</link>
+      <title>FAQ</title>
+      <pubDate>Fri, 07 May 2021 19:50:02 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" data-page-sections="609506658ef4391ad8e86b41" id="sections">
+  
+    <section
+  data-test="page-section"
+  
+  data-section-theme="white"
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--large
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+     has-background
+    
+    white'
+  
+  data-section-id="609506658ef4391ad8e86b44"
+  
+  data-controller="SectionWrapperController, MagicPaddingController"
+  data-current-styles="{
+  &quot;backgroundImage&quot;: {
+    &quot;id&quot;: &quot;60958f6dfadef4257ca94dce&quot;,
+    &quot;recordType&quot;: 2,
+    &quot;addedOn&quot;: 1620414317786,
+    &quot;updatedOn&quot;: 1620424301684,
+    &quot;workflowState&quot;: 1,
+    &quot;publishOn&quot;: 1620414317786,
+    &quot;authorId&quot;: &quot;60943c3d8cb69162a3d0aa1c&quot;,
+    &quot;systemDataId&quot;: &quot;1620414319117-QVA2T7C2OW9RZU6V8XCI&quot;,
+    &quot;systemDataVariants&quot;: &quot;1920x1004,100w,300w,500w,750w,1000w,1500w&quot;,
+    &quot;systemDataSourceType&quot;: &quot;PNG&quot;,
+    &quot;filename&quot;: &quot;faq_back.png&quot;,
+    &quot;mediaFocalPoint&quot;: {
+      &quot;x&quot;: 0.5,
+      &quot;y&quot;: 0.5,
+      &quot;source&quot;: 3
+    },
+    &quot;colorData&quot;: {
+      &quot;topLeftAverage&quot;: &quot;010105&quot;,
+      &quot;topRightAverage&quot;: &quot;000000&quot;,
+      &quot;bottomLeftAverage&quot;: &quot;020103&quot;,
+      &quot;bottomRightAverage&quot;: &quot;0e0d03&quot;,
+      &quot;centerAverage&quot;: &quot;32183f&quot;,
+      &quot;suggestedBgColor&quot;: &quot;010104&quot;
+    },
+    &quot;urlId&quot;: &quot;49cxacesszowguaa60w5bnypewvh43&quot;,
+    &quot;title&quot;: &quot;&quot;,
+    &quot;body&quot;: null,
+    &quot;likeCount&quot;: 0,
+    &quot;commentCount&quot;: 0,
+    &quot;publicCommentCount&quot;: 0,
+    &quot;commentState&quot;: 2,
+    &quot;unsaved&quot;: false,
+    &quot;author&quot;: {
+      &quot;id&quot;: &quot;60943c3d8cb69162a3d0aa1c&quot;,
+      &quot;displayName&quot;: &quot;Jam Man&quot;,
+      &quot;firstName&quot;: &quot;Jam&quot;,
+      &quot;lastName&quot;: &quot;Man&quot;,
+      &quot;bio&quot;: &quot;&quot;
+    },
+    &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/60943cf54c6ea96c3fee0622/1620414319117-QVA2T7C2OW9RZU6V8XCI/ke17ZwdGBToddI8pDm48kDw-wvOPBYe2q0R7Y22ngfB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UR61tt_tV43nD9Ghy9gr-U8GjEfPsHI845-DtGX4aRcoP7cJNZlDXbgJNE9ef52e8w/faq_back.png&quot;,
+    &quot;contentType&quot;: &quot;image/png&quot;,
+    &quot;items&quot;: [ ],
+    &quot;pushedServices&quot;: { },
+    &quot;pendingPushedServices&quot;: { },
+    &quot;recordTypeLabel&quot;: &quot;image&quot;,
+    &quot;originalSize&quot;: &quot;1920x1004&quot;
+  },
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--large&quot;,
+  &quot;customSectionHeight&quot;: 10,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;white&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-animation="none"
+   
+  
+    
+  
+>
+  <div class="section-background">
+  
+    
+      
+      
+        
+            
+
+
+  
+<script>
+  "use strict";
+
+  var positionImage = function positionImage(imageEl) {
+    var imageDimensions = imageEl.dataset.imageDimensions.split('x');
+    var originalWidth = imageDimensions[0];
+    var originalHeight = imageDimensions[1];
+    var focalPoint = imageEl.dataset.imageFocalPoint.split(',');
+    var focalPointX = focalPoint[0];
+    var focalPointY = focalPoint[1];
+    var parentNode = imageEl.parentNode;
+
+    var scale = function () {
+      var imageRatio = originalWidth / originalHeight;
+      var parentClientSize = {
+        height: parentNode.clientHeight,
+        width: parentNode.clientWidth
+      };
+      var parentRatio = parentClientSize.width / parentClientSize.height;
+
+      if (imageRatio > parentRatio) {
+        return parentClientSize.height / originalHeight;
+      }
+
+      return parentClientSize.width / originalWidth;
+    }();
+
+    var getRelativeOffset = function getRelativeOffset() {
+      var targetWidth = Math.ceil(originalWidth * scale);
+      var targetHeight = Math.ceil(originalHeight * scale);
+      var parentDimensionWidth = parentNode.offsetWidth;
+      var parentDimensionHeight = parentNode.offsetHeight;
+      var overflowWidth = targetWidth - parentDimensionWidth;
+      var overflowHeight = targetHeight - parentDimensionHeight;
+      var valueX;
+
+      if (overflowWidth === 0) {
+        valueX = focalPointX;
+      } else {
+        valueX = Math.max(Math.min(targetWidth * focalPointX - parentDimensionWidth * 0.5, overflowWidth), 0) / overflowWidth;
+      }
+
+      var valueY;
+
+      if (overflowHeight === 0) {
+        valueY = focalPointY;
+      } else {
+        valueY = Math.max(Math.min(targetHeight * focalPointY - parentDimensionHeight * 0.5, overflowHeight), 0) / overflowHeight;
+      }
+
+      return {
+        valueX: valueX,
+        valueY: valueY
+      };
+    };
+
+    var relativeOffset = getRelativeOffset();
+    var valueX = relativeOffset.valueX;
+    var valueY = relativeOffset.valueY;
+    imageEl.style.objectPosition = "".concat(valueX * 100, "% ").concat(valueY * 100, "%");
+  };
+</script>
+
+
+
+  
+  <img alt="" src="https://images.squarespace-cdn.com/content/v1/60943cf54c6ea96c3fee0622/1620414319117-QVA2T7C2OW9RZU6V8XCI/ke17ZwdGBToddI8pDm48kDw-wvOPBYe2q0R7Y22ngfB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UR61tt_tV43nD9Ghy9gr-U8GjEfPsHI845-DtGX4aRcoP7cJNZlDXbgJNE9ef52e8w/faq_back.png" data-image="https://images.squarespace-cdn.com/content/v1/60943cf54c6ea96c3fee0622/1620414319117-QVA2T7C2OW9RZU6V8XCI/ke17ZwdGBToddI8pDm48kDw-wvOPBYe2q0R7Y22ngfB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UR61tt_tV43nD9Ghy9gr-U8GjEfPsHI845-DtGX4aRcoP7cJNZlDXbgJNE9ef52e8w/faq_back.png" data-image-dimensions="1920x1004" data-image-focal-point="0.5,0.5" alt="faq_back.png"  data-load="false"
+    
+       srcset="https://images.squarespace-cdn.com/content/v1/60943cf54c6ea96c3fee0622/1620414319117-QVA2T7C2OW9RZU6V8XCI/ke17ZwdGBToddI8pDm48kDw-wvOPBYe2q0R7Y22ngfB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UR61tt_tV43nD9Ghy9gr-U8GjEfPsHI845-DtGX4aRcoP7cJNZlDXbgJNE9ef52e8w/faq_back.png?format=100w 100w,https://images.squarespace-cdn.com/content/v1/60943cf54c6ea96c3fee0622/1620414319117-QVA2T7C2OW9RZU6V8XCI/ke17ZwdGBToddI8pDm48kDw-wvOPBYe2q0R7Y22ngfB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UR61tt_tV43nD9Ghy9gr-U8GjEfPsHI845-DtGX4aRcoP7cJNZlDXbgJNE9ef52e8w/faq_back.png?format=300w 300w,https://images.squarespace-cdn.com/content/v1/60943cf54c6ea96c3fee0622/1620414319117-QVA2T7C2OW9RZU6V8XCI/ke17ZwdGBToddI8pDm48kDw-wvOPBYe2q0R7Y22ngfB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UR61tt_tV43nD9Ghy9gr-U8GjEfPsHI845-DtGX4aRcoP7cJNZlDXbgJNE9ef52e8w/faq_back.png?format=500w 500w,https://images.squarespace-cdn.com/content/v1/60943cf54c6ea96c3fee0622/1620414319117-QVA2T7C2OW9RZU6V8XCI/ke17ZwdGBToddI8pDm48kDw-wvOPBYe2q0R7Y22ngfB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UR61tt_tV43nD9Ghy9gr-U8GjEfPsHI845-DtGX4aRcoP7cJNZlDXbgJNE9ef52e8w/faq_back.png?format=750w 750w,https://images.squarespace-cdn.com/content/v1/60943cf54c6ea96c3fee0622/1620414319117-QVA2T7C2OW9RZU6V8XCI/ke17ZwdGBToddI8pDm48kDw-wvOPBYe2q0R7Y22ngfB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UR61tt_tV43nD9Ghy9gr-U8GjEfPsHI845-DtGX4aRcoP7cJNZlDXbgJNE9ef52e8w/faq_back.png?format=1000w 1000w,https://images.squarespace-cdn.com/content/v1/60943cf54c6ea96c3fee0622/1620414319117-QVA2T7C2OW9RZU6V8XCI/ke17ZwdGBToddI8pDm48kDw-wvOPBYe2q0R7Y22ngfB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UR61tt_tV43nD9Ghy9gr-U8GjEfPsHI845-DtGX4aRcoP7cJNZlDXbgJNE9ef52e8w/faq_back.png?format=1500w 1500w,https://images.squarespace-cdn.com/content/v1/60943cf54c6ea96c3fee0622/1620414319117-QVA2T7C2OW9RZU6V8XCI/ke17ZwdGBToddI8pDm48kDw-wvOPBYe2q0R7Y22ngfB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UR61tt_tV43nD9Ghy9gr-U8GjEfPsHI845-DtGX4aRcoP7cJNZlDXbgJNE9ef52e8w/faq_back.png?format=original"
+      
+      sizes="100vw"
+      onLoad="positionImage(this); this.classList.add('loaded');"
+    
+  />
+
+          
+      
+      <div data-controller="SectionBackgroundOverlayController" data-image-overlay-opacity="0.15" class="section-background-overlay"></div>
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-609506658ef4391ad8e86b44"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-738f47eec9ef2e4111b3"><div class="sqs-block-content"><h1 style="text-align:center;white-space:pre-wrap;">FAQ</h1></div></div><div class="row sqs-row"><div class="col sqs-col-3 span-3"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1620413467331_51368"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-6 span-6"><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-yui_3_17_2_1_1620413467331_43025"><div class="sqs-block-content"><hr /></div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1620413467331_14627"><div class="sqs-block-content"><p style="text-align:center;white-space:pre-wrap;" class="sqsrte-large">Q: Website X says Apollo is a rug.</p><p style="text-align:center;white-space:pre-wrap;" class="">A: These websites are very primitive and don't understand newer tokens. </p><p style="text-align:center;white-space:pre-wrap;" class="">In our case, rug screen is adding points to our token because of a requirement inside the transfer function that ensures no holder can buy more than 15 million. We don't understand why this is causing rugscreen to think we're a rugpull, but its provably untrue. The dev has renounced ownership of the contract and all liquidity has been locked forever.</p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="https://bscscan.com/tx/0x53bcd908263e6635c9da4cfc79b7f080848d3d34d6c8c404425b4c3c16aa85ce" target="_blank">Ownership Renounced</a></p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="https://bscscan.com/tx/0xfbd688401e93c0620cce34119901cc30be94d998c9adeb84131bdeff40c8e557" target="_blank">Liquidity Locked Forever</a></p></div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1620413467331_55332"><div class="sqs-block-content">&nbsp;</div></div></div></div><div class="row sqs-row"><div class="col sqs-col-5 span-5"><div class="row sqs-row"><div class="col sqs-col-1 span-1"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-30ff75d85a0fdb709323"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-4 span-4"><div class="row sqs-row"><div class="col sqs-col-3 span-3"><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-eca7a8a2939a7f4b11b3"><div class="sqs-block-content"><hr /></div></div></div><div class="col sqs-col-1 span-1"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-961ceae535b51986ad9a"><div class="sqs-block-content">&nbsp;</div></div></div></div></div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-f2d7abc2807628868081"><div class="sqs-block-content"><p style="text-align:center;white-space:pre-wrap;" class="sqsrte-large">Q: Why can’t I buy more than 15M tokens?</p><p style="text-align:center;white-space:pre-wrap;" class="">A: As part of our whale proof tokenomics, we have restricted the amount one person can hold to just 15 million tokens, ensuring no one holder can control the market.</p></div></div><div class="row sqs-row"><div class="col sqs-col-1 span-1"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-64a0a5588a0297cfc7df"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-4 span-4"><div class="row sqs-row"><div class="col sqs-col-3 span-3"><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-729c63148cdbc2922d6e"><div class="sqs-block-content"><hr /></div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1620379258781_28140"><div class="sqs-block-content"><p style="text-align:center;white-space:pre-wrap;" class="sqsrte-large">Q: Why can’t I buy?</p><p style="text-align:center;white-space:pre-wrap;" class="">A: If the buy would result in you having more than 15M tokens in your wallet, it won’t work. Also, be sure to use PancakeSwap V2 and 11% slippage.</p></div></div></div><div class="col sqs-col-1 span-1"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-72206d1b08bfeba4cd30"><div class="sqs-block-content">&nbsp;</div></div></div></div></div></div></div><div class="col sqs-col-7 span-7"><div class="row sqs-row"><div class="col sqs-col-2 span-2"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-150f7de5d18adb8f6390"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-5 span-5"><div class="row sqs-row"><div class="col sqs-col-1 span-1"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-6eb285d8b3a603fa66af"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-4 span-4"><div class="row sqs-row"><div class="col sqs-col-3 span-3"><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-7b30ecab09a746df9412"><div class="sqs-block-content"><hr /></div></div></div><div class="col sqs-col-1 span-1"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-41c6e45d9429ce7740c8"><div class="sqs-block-content">&nbsp;</div></div></div></div></div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-fc4d0ad0fadbcadff58b"><div class="sqs-block-content"><p style="text-align:center;white-space:pre-wrap;" class="sqsrte-large">Q: Is there any way to get more than 15M tokens?</p><p style="text-align:center;margin-left:40px;white-space:pre-wrap;" class="">A: Yes! Through redistribution, you will continue to gain more tokens over time, even if you already have 15M! </p></div></div><div class="row sqs-row"><div class="col sqs-col-1 span-1"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-d58189c1f4326d74ce50"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-4f065aa87bbb7bb6804e"><div class="sqs-block-content"><hr /></div></div></div><div class="col sqs-col-1 span-1"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-8dcc5769c2e410030c8e"><div class="sqs-block-content">&nbsp;</div></div></div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1620414237340_31560"><div class="sqs-block-content"><p style="text-align:center;white-space:pre-wrap;" class="sqsrte-large">Q: I want to help spread the word of Apollo, what's the best thing I can do to help?</p><pre style="text-align:center;"><code>A: The best thing anyone can do to help is to spread the word and tell other potential investors why you love the project!</code></pre></div></div></div></div></div></div><div class="row sqs-row"><div class="col sqs-col-5 span-5"><div class="row sqs-row"><div class="col sqs-col-1 span-1"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-add3d190a10bb370df8e"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-4 span-4"><div class="row sqs-row"><div class="col sqs-col-3 span-3"><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-e116b7405b000bb5db43"><div class="sqs-block-content"><hr /></div></div></div><div class="col sqs-col-1 span-1"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-a805aef3d32c5a0f9854"><div class="sqs-block-content">&nbsp;</div></div></div></div></div></div></div><div class="col sqs-col-7 span-7"><div class="row sqs-row"><div class="col sqs-col-2 span-2"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1620414237340_45313"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-1 span-1"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1620414237340_48582"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-4 span-4"><div class="row sqs-row"><div class="col sqs-col-3 span-3"><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-yui_3_17_2_1_1620414237340_54204"><div class="sqs-block-content"><hr /></div></div></div><div class="col sqs-col-1 span-1"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1620414237340_61037"><div class="sqs-block-content">&nbsp;</div></div></div></div></div></div></div></div></div></div></div>
+    </div>
+  </div>
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>faq</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>3</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/roadmap</link>
+      <title>Roadmap</title>
+      <pubDate>Fri, 07 May 2021 22:00:51 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" data-page-sections="6095b66d40963c4955bdae1b" id="sections">
+  
+    <section
+  data-test="page-section"
+  
+  data-section-theme="white"
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--large
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+     has-background
+    
+    white'
+  
+  data-section-id="6095b66d40963c4955bdae1e"
+  
+  data-controller="SectionWrapperController, MagicPaddingController"
+  data-current-styles="{
+  &quot;backgroundImage&quot;: {
+    &quot;id&quot;: &quot;6095b66d40963c4955bdae1a&quot;,
+    &quot;recordType&quot;: 2,
+    &quot;addedOn&quot;: 1620414317786,
+    &quot;updatedOn&quot;: 1620414331966,
+    &quot;starred&quot;: false,
+    &quot;passthrough&quot;: false,
+    &quot;workflowState&quot;: 1,
+    &quot;publishOn&quot;: 1620414317786,
+    &quot;authorId&quot;: &quot;60943c3d8cb69162a3d0aa1c&quot;,
+    &quot;systemDataId&quot;: &quot;1620414319117-QVA2T7C2OW9RZU6V8XCI&quot;,
+    &quot;systemDataVariants&quot;: &quot;1920x1004,100w,300w,500w,750w,1000w,1500w&quot;,
+    &quot;systemDataSourceType&quot;: &quot;PNG&quot;,
+    &quot;filename&quot;: &quot;faq_back.png&quot;,
+    &quot;mediaFocalPoint&quot;: {
+      &quot;x&quot;: 0.5,
+      &quot;y&quot;: 0.5,
+      &quot;source&quot;: 3
+    },
+    &quot;colorData&quot;: {
+      &quot;topLeftAverage&quot;: &quot;010105&quot;,
+      &quot;topRightAverage&quot;: &quot;000000&quot;,
+      &quot;bottomLeftAverage&quot;: &quot;020103&quot;,
+      &quot;bottomRightAverage&quot;: &quot;0e0d03&quot;,
+      &quot;centerAverage&quot;: &quot;32183f&quot;,
+      &quot;suggestedBgColor&quot;: &quot;010104&quot;
+    },
+    &quot;urlId&quot;: &quot;49cxacesszowguaa60w5bnypewvh43-ftbg9&quot;,
+    &quot;title&quot;: &quot;&quot;,
+    &quot;body&quot;: null,
+    &quot;likeCount&quot;: 0,
+    &quot;commentCount&quot;: 0,
+    &quot;publicCommentCount&quot;: 0,
+    &quot;commentState&quot;: 2,
+    &quot;unsaved&quot;: false,
+    &quot;author&quot;: {
+      &quot;id&quot;: &quot;60943c3d8cb69162a3d0aa1c&quot;,
+      &quot;displayName&quot;: &quot;Jam Man&quot;,
+      &quot;firstName&quot;: &quot;Jam&quot;,
+      &quot;lastName&quot;: &quot;Man&quot;,
+      &quot;bio&quot;: &quot;&quot;
+    },
+    &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/60943cf54c6ea96c3fee0622/1620414319117-QVA2T7C2OW9RZU6V8XCI/ke17ZwdGBToddI8pDm48kDw-wvOPBYe2q0R7Y22ngfB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UR61tt_tV43nD9Ghy9gr-U8GjEfPsHI845-DtGX4aRcoP7cJNZlDXbgJNE9ef52e8w/faq_back.png&quot;,
+    &quot;contentType&quot;: &quot;image/png&quot;,
+    &quot;items&quot;: [ ],
+    &quot;pushedServices&quot;: { },
+    &quot;pendingPushedServices&quot;: { },
+    &quot;recordTypeLabel&quot;: &quot;image&quot;,
+    &quot;originalSize&quot;: &quot;1920x1004&quot;
+  },
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--large&quot;,
+  &quot;customSectionHeight&quot;: 10,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;white&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-animation="none"
+   
+  
+    
+  
+>
+  <div class="section-background">
+  
+    
+      
+      
+        
+            
+
+
+  
+<script>
+  "use strict";
+
+  var positionImage = function positionImage(imageEl) {
+    var imageDimensions = imageEl.dataset.imageDimensions.split('x');
+    var originalWidth = imageDimensions[0];
+    var originalHeight = imageDimensions[1];
+    var focalPoint = imageEl.dataset.imageFocalPoint.split(',');
+    var focalPointX = focalPoint[0];
+    var focalPointY = focalPoint[1];
+    var parentNode = imageEl.parentNode;
+
+    var scale = function () {
+      var imageRatio = originalWidth / originalHeight;
+      var parentClientSize = {
+        height: parentNode.clientHeight,
+        width: parentNode.clientWidth
+      };
+      var parentRatio = parentClientSize.width / parentClientSize.height;
+
+      if (imageRatio > parentRatio) {
+        return parentClientSize.height / originalHeight;
+      }
+
+      return parentClientSize.width / originalWidth;
+    }();
+
+    var getRelativeOffset = function getRelativeOffset() {
+      var targetWidth = Math.ceil(originalWidth * scale);
+      var targetHeight = Math.ceil(originalHeight * scale);
+      var parentDimensionWidth = parentNode.offsetWidth;
+      var parentDimensionHeight = parentNode.offsetHeight;
+      var overflowWidth = targetWidth - parentDimensionWidth;
+      var overflowHeight = targetHeight - parentDimensionHeight;
+      var valueX;
+
+      if (overflowWidth === 0) {
+        valueX = focalPointX;
+      } else {
+        valueX = Math.max(Math.min(targetWidth * focalPointX - parentDimensionWidth * 0.5, overflowWidth), 0) / overflowWidth;
+      }
+
+      var valueY;
+
+      if (overflowHeight === 0) {
+        valueY = focalPointY;
+      } else {
+        valueY = Math.max(Math.min(targetHeight * focalPointY - parentDimensionHeight * 0.5, overflowHeight), 0) / overflowHeight;
+      }
+
+      return {
+        valueX: valueX,
+        valueY: valueY
+      };
+    };
+
+    var relativeOffset = getRelativeOffset();
+    var valueX = relativeOffset.valueX;
+    var valueY = relativeOffset.valueY;
+    imageEl.style.objectPosition = "".concat(valueX * 100, "% ").concat(valueY * 100, "%");
+  };
+</script>
+
+
+
+  
+  <img alt="" src="https://images.squarespace-cdn.com/content/v1/60943cf54c6ea96c3fee0622/1620414319117-QVA2T7C2OW9RZU6V8XCI/ke17ZwdGBToddI8pDm48kDw-wvOPBYe2q0R7Y22ngfB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UR61tt_tV43nD9Ghy9gr-U8GjEfPsHI845-DtGX4aRcoP7cJNZlDXbgJNE9ef52e8w/faq_back.png" data-image="https://images.squarespace-cdn.com/content/v1/60943cf54c6ea96c3fee0622/1620414319117-QVA2T7C2OW9RZU6V8XCI/ke17ZwdGBToddI8pDm48kDw-wvOPBYe2q0R7Y22ngfB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UR61tt_tV43nD9Ghy9gr-U8GjEfPsHI845-DtGX4aRcoP7cJNZlDXbgJNE9ef52e8w/faq_back.png" data-image-dimensions="1920x1004" data-image-focal-point="0.5,0.5" alt="faq_back.png"  data-load="false"
+    
+       srcset="https://images.squarespace-cdn.com/content/v1/60943cf54c6ea96c3fee0622/1620414319117-QVA2T7C2OW9RZU6V8XCI/ke17ZwdGBToddI8pDm48kDw-wvOPBYe2q0R7Y22ngfB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UR61tt_tV43nD9Ghy9gr-U8GjEfPsHI845-DtGX4aRcoP7cJNZlDXbgJNE9ef52e8w/faq_back.png?format=100w 100w,https://images.squarespace-cdn.com/content/v1/60943cf54c6ea96c3fee0622/1620414319117-QVA2T7C2OW9RZU6V8XCI/ke17ZwdGBToddI8pDm48kDw-wvOPBYe2q0R7Y22ngfB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UR61tt_tV43nD9Ghy9gr-U8GjEfPsHI845-DtGX4aRcoP7cJNZlDXbgJNE9ef52e8w/faq_back.png?format=300w 300w,https://images.squarespace-cdn.com/content/v1/60943cf54c6ea96c3fee0622/1620414319117-QVA2T7C2OW9RZU6V8XCI/ke17ZwdGBToddI8pDm48kDw-wvOPBYe2q0R7Y22ngfB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UR61tt_tV43nD9Ghy9gr-U8GjEfPsHI845-DtGX4aRcoP7cJNZlDXbgJNE9ef52e8w/faq_back.png?format=500w 500w,https://images.squarespace-cdn.com/content/v1/60943cf54c6ea96c3fee0622/1620414319117-QVA2T7C2OW9RZU6V8XCI/ke17ZwdGBToddI8pDm48kDw-wvOPBYe2q0R7Y22ngfB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UR61tt_tV43nD9Ghy9gr-U8GjEfPsHI845-DtGX4aRcoP7cJNZlDXbgJNE9ef52e8w/faq_back.png?format=750w 750w,https://images.squarespace-cdn.com/content/v1/60943cf54c6ea96c3fee0622/1620414319117-QVA2T7C2OW9RZU6V8XCI/ke17ZwdGBToddI8pDm48kDw-wvOPBYe2q0R7Y22ngfB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UR61tt_tV43nD9Ghy9gr-U8GjEfPsHI845-DtGX4aRcoP7cJNZlDXbgJNE9ef52e8w/faq_back.png?format=1000w 1000w,https://images.squarespace-cdn.com/content/v1/60943cf54c6ea96c3fee0622/1620414319117-QVA2T7C2OW9RZU6V8XCI/ke17ZwdGBToddI8pDm48kDw-wvOPBYe2q0R7Y22ngfB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UR61tt_tV43nD9Ghy9gr-U8GjEfPsHI845-DtGX4aRcoP7cJNZlDXbgJNE9ef52e8w/faq_back.png?format=1500w 1500w,https://images.squarespace-cdn.com/content/v1/60943cf54c6ea96c3fee0622/1620414319117-QVA2T7C2OW9RZU6V8XCI/ke17ZwdGBToddI8pDm48kDw-wvOPBYe2q0R7Y22ngfB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UR61tt_tV43nD9Ghy9gr-U8GjEfPsHI845-DtGX4aRcoP7cJNZlDXbgJNE9ef52e8w/faq_back.png?format=original"
+      
+      sizes="100vw"
+      onLoad="positionImage(this); this.classList.add('loaded');"
+    
+  />
+
+          
+      
+      <div data-controller="SectionBackgroundOverlayController" data-image-overlay-opacity="0.15" class="section-background-overlay"></div>
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-6095b66d40963c4955bdae1e"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-5e8f38da11fdf09d8e06"><div class="sqs-block-content"><h1 style="text-align:center;white-space:pre-wrap;">Roadmap</h1></div></div><div class="row sqs-row"><div class="col sqs-col-3 span-3"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-c1daf230b26cc366b4fb"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-6 span-6"><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-3390dacfb08c25724545"><div class="sqs-block-content"><hr /></div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-e9c607dc92becae93eea"><div class="sqs-block-content"><h3 style="text-align:center;white-space:pre-wrap;">2021 Q2</h3></div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-yui_3_17_2_1_1620424319433_48873"><div class="sqs-block-content"><hr /></div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1620424554493_4508"><div class="sqs-block-content"><p class="" style="white-space:pre-wrap;">$Apollo Smart Contract Launch to Mainnet <a href="https://emojipedia.org/check-mark/">✔️</a></p><p class="" style="white-space:pre-wrap;">$Apollo Contract Ownership Locked and Liquidity Locked Forever! <a href="https://emojipedia.org/check-mark/">✔️</a></p><p class="" style="white-space:pre-wrap;">PancakeSwap Listing <a href="https://emojipedia.org/check-mark/">✔️</a></p><p class="" style="white-space:pre-wrap;">Website Launch <a href="https://emojipedia.org/check-mark/">✔️</a></p><p class="" style="white-space:pre-wrap;">Explore Marketing Options</p><p class="" style="white-space:pre-wrap;">Community Building</p><p class="" style="white-space:pre-wrap;">Community Contests</p></div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-yui_3_17_2_1_1620424319433_49394"><div class="sqs-block-content"><hr /></div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1620424554493_6219"><div class="sqs-block-content"><h3 style="text-align:center;white-space:pre-wrap;">2021 Q3</h3></div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-yui_3_17_2_1_1620424319433_49934"><div class="sqs-block-content"><hr /></div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1620424554493_7372"><div class="sqs-block-content"><p class="" style="white-space:pre-wrap;">CoinGecko Listing</p><p class="" style="white-space:pre-wrap;">CoinMarketCap Listing</p><p class="" style="white-space:pre-wrap;">Website Improvements</p><p class="" style="white-space:pre-wrap;">$APOLLO Merch!</p><p class="" style="white-space:pre-wrap;">Influencer Partnerships</p><p class="" style="white-space:pre-wrap;">Explore CEX Listings</p></div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-yui_3_17_2_1_1620424554493_10246"><div class="sqs-block-content"><hr /></div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1620424554493_11073"><div class="sqs-block-content"><h3 style="text-align:center;white-space:pre-wrap;">To be Announced…</h3></div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-31ab7a8c42a91ff78833"><div class="sqs-block-content">&nbsp;</div></div></div></div></div></div></div>
+    </div>
+  </div>
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>roadmap</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>4</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+  </channel>
+</rss>
+
